@@ -1,0 +1,11 @@
+Department: African Centers of Excellence in Bioinformatics and Data Intensive Sciences
+  (ACE)
+Description: 'I am a PhD candidate at Makerere University, Uganda, in Bioinformatics
+  and Computational Biology. My project involves designing a pipeline for the computational
+  design of Immunotherapy against breast cancer. My problem is an HTC problem with
+  special requests of GPU resources. HTCondor and OSGPool will help me in running
+  my analysis much faster and enable the exploration of more parameters within the
+  tools incorporated in the pipeline. '
+FieldOfScience: Bioinformatics
+Organization: 'Makerere University '
+PIName: Fredrick Elishama Kakembo
